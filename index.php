@@ -5,5 +5,7 @@
  <body>
   <?php echo '<h1>Hello World!</h1><h3>Welcome to WPMU DEV</h3>'; ?>
    <?php echo '<h1>Hello !</h1><h3>Welcome to WPMU DEV</h3>'; ?>
+
+  
  </body>
 </html>
